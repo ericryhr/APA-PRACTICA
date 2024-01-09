@@ -9,3 +9,4 @@ seaborn==0.13.0
 shap==0.44.0
 statsmodels==0.14.0
 yellowbrick==1.5
+lime==0.2.0.1
